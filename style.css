@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+button {
+  padding: 10px;
+  background-color: #4285F4;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#logout-btn {
+  background-color: #d9534f;
+}
